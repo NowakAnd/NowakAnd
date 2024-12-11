@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NowakAnd
-- 👀 I’m interested in automotive indrustry
+- 👀 I’m interested in automotive industry
 - 🌱 I’m currently learning automation with Python
 
 <!---
